@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucasPaivaa/LucasPaivaa/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
