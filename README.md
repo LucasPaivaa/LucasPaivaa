@@ -1,45 +1,41 @@
-<h1 align="center">Olá ! Me chamo Lucas de Paiva.</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=234182&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=372dc1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Paiva;Eu+tenho+20+anos;Estou+Cursando+analise+e+Desenvolvimento+de+Sistemas;Sejam+Bem+vindos!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPaivaa&bg_color=0d1117&color=372dc1&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPaivaa&show_icons=true&count_private=true&hide_border=true&title_color=372dc1&icon_color=ff91a4&text_color=01fff8&bg_color=0d1117" alt="Lucas Paiva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaivaa&layout=compact&hide_border=true&title_color=372dc1&text_color=01fff8&bg_color=0d1117" />
+</div>
+
+
+
+
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+
 
 ###
 
-<h3 align="center">Sejam bem vindos ao Meu GitHub!</h3>
+<div align="center"> 
 
-###
+
+<a href = "mailto:cmp.1a.lucas.rpaiva05@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/lucas-paiva-rocha/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasPaivaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasPaivaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="125" alt="languages graph"  />
+
+  <br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasPaivaa}/count.svg" /></p> 
+<br>
 </div>
-
 ###
-
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LucasPaivaa/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=234182&height=120&section=footer"/>
